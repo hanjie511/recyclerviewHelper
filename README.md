@@ -83,3 +83,5 @@ dependencies {
 
 
 # 节目效果
+![linear](https://github.com/hanjie511/recyclerviewHelper/blob/master/SVID_20200503_143726_1.gif)
+![grid](https://github.com/hanjie511/recyclerviewHelper/blob/master/SVID_20200503_143741_1.gif)
