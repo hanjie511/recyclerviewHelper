@@ -47,7 +47,7 @@ dependencies {
             }
         });
 ```  
-#下拉刷新效果如何实现的
+# 下拉刷新效果如何实现的
 用了google官方提供的SwipeRefreshLayout来实现下拉刷新的效果，由于实现过程简单，直接上代码：  
 * 布局文件 
 ```java
